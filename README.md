@@ -1,4 +1,6 @@
-# Omgevingsrapport
+# Omgevingsrapport / HuisRapport
+
+`index.html` is nu het HuisRapport-ontwerp (Keurmerk-stijl): uitklapbare blokken Aandacht/Let op/In orde/Onbekend, vaste balk met wat nog op slot zit, bundels en "zelf aanvullen". Zonder backend valt het rapport terug op voorbeelddata. De vorige testsite staat in `oud-index.html` (met `app.js`, `style.css`, `checkout.html`).
 
 Statische Nederlandstalige testwebsite in plain HTML/CSS/JS, zonder backend of buildstap. `index.html` staat in de root. GitHub Pages: deploy from branch `main`, `/ (root)`.
 
